@@ -1,2 +1,2 @@
 # GitHub-Tutorial
-Hey ! This is for tutorial purpose - part 2
+Hey ! This is for tutorial purpose - part 3
